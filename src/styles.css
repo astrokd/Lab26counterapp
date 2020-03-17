@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  font-family: sans-serif;
+  text-align: center;
+  background: lightskyblue;
+}
+
+footer {
+  font-family: sans-serif;
+  text-align: center;
+  background: lightskyblue;
+  margin-top: auto;
+}
